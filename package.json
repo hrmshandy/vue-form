@@ -1,0 +1,19 @@
+{
+  "name": "vue-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrmshandy/vue-form.git"
+  },
+  "author": "Shandy Hermawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrmshandy/vue-form/issues"
+  },
+  "homepage": "https://github.com/hrmshandy/vue-form#readme"
+}
